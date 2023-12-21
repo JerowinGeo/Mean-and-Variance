@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+#### NAME: Jerowin Geo J A
+#### ROLL NO: 212223100016
+
 
 # Aim : 
 
