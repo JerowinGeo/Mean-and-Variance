@@ -85,6 +85,11 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
+
+
+
+
+
 # Output : 
 ![image](https://github.com/JerowinGeo/Mean-and-Variance/assets/147139744/125d0e57-225f-42b2-9080-6f422b8ddec7)
 
